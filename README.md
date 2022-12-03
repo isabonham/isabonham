@@ -1,7 +1,7 @@
 ### Hello ~~World~~ there 👋
 
-- 🔭 I’m currently studying digital design
-- 🌱 I’m currently learning JavaScript and TypeScript
+- 🎓 Studying Digital Design at Federal University of Ceará.
+- 🧠 I'm learning about Javascript and Typescript.
 - 📫 How to reach me: isa.bonham@alu.ufc.br
 
 <!--
