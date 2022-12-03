@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ##
 
 <div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabonham&show_icons=true&theme=dracula&line_height=20&custom_title=Github%20stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabonham&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/isabonham">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=isabonhamc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabonham&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
 
-![Snake animation](https://github.com/isabonham/isabonham/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/isabonham/isabonham/blob/output/github-contribution-grid-snake.svg) -->
