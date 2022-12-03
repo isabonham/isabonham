@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ##
 
-<div style="display: flex;">
+<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabonham&show_icons=true&theme=dracula&line_height=20&custom_title=Github%20stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabonham&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  
-  ##
 
-![Snake animation](https://github.com/isabonham/isabonham/blob/output/github-contribution-grid-snake.svg)
+##
+
+<!-- ![Snake animation](https://github.com/isabonham/isabonham/blob/output/github-contribution-grid-snake.svg) -->
