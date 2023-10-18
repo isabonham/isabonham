@@ -2,6 +2,7 @@
 
 - 🎓 Studying Digital Design at Federal University of Ceará.
 - 🧠 I'm learning about Javascript and Typescript.
+- 🧠 Currently doing work in html and css
 - 📫 How to reach me: isa.bonham@alu.ufc.br
 
 <!--
